@@ -6,7 +6,7 @@ to train various regression models and choose the best one to predict the number
 refined and cleaned before feeding in the algorithms for better results.
 
 Content
-The file train.csv contains metrics and other details of about 15000 youtube videos. The metrics include number of views, 
+The file train(1).csv contains metrics and other details of about 15000 youtube videos. The metrics include number of views, 
 likes, dislikes, comments and apart from that published date, duration and category are also included. The train.csv file 
 also contains the metric number of adviews which is our target variable for prediction.
 
